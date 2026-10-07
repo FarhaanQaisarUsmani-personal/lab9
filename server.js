@@ -10,3 +10,5 @@ app.get('/', (req, res) => {
 app.listen(PORT, () => {
     console.log(`App running on http://localhost:${PORT}`);
 });
+
+//Making a tiny change to see if the secret worked
